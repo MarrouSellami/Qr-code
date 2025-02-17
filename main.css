@@ -1,0 +1,61 @@
+body{
+    font-family: "Outfit", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+    
+}
+.page{
+    
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+   max-width: 300px;
+   border-radius: 8px;
+   background-color:rgb(245, 243, 243) ;
+  
+}
+.page img{
+    width: 100%;
+    max-width: 200px;
+    border-radius: 10px;
+    margin:90px;
+    margin-bottom: 3px;
+   text-align: center;
+   margin: 0;
+
+    
+}
+.text{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    font-weight: 300;
+    margin-bottom: 15px;
+   
+
+}
+.text h2{
+    line-height: 3px;
+    font-size: 20px;
+    margin-top: 17px;
+
+
+}
+.text .titre{
+    margin-bottom: 8px;
+    padding-bottom: 2px;
+
+    
+}
+.text p{
+    color: gray;
+    line-height: 4px;
+    margin-top: 10px;
+    
+    
+}
